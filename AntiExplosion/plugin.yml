@@ -1,5 +1,5 @@
 name: AntiExplosion
 main: DeBePlugins\AntiExplosion\AntiExplosion
 version: DeBe
-api: [1.6.0]
+api: [3.0.0-ALPHA11]
 author: DeBe
